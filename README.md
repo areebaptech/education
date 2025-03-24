@@ -1,4 +1,4 @@
 # education
 This is first used for github
-<br> <h1 style="color💛;">
-Areeb
+<br> <h1 style="color💛;"> Areeb </h1>
+
